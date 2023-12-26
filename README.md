@@ -6,7 +6,7 @@ Welcome to CodeCraftDaily, your daily coding companion! This repository is packe
 
 ## Table of Contents
 
-1. [Topic 1: Array](#topic-1-algorithms)
+1. [Topic 1: Array](#arrays-important-algo)
    - [Question 1. Two Sum](https://leetcode.com/problems/two-sum/)
    - [Question 2. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
    - [Question 3. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
@@ -20,7 +20,7 @@ Welcome to CodeCraftDaily, your daily coding companion! This repository is packe
 
    <!-- Add more questions and explanations as needed -->
 
-2. [Topic 2: String](#topic-2-data-structures)
+2. [Topic 2: String](#string-important-algo)
    - [Question 1. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
    - [Question 2. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
    - [Question 3. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
@@ -35,9 +35,9 @@ Welcome to CodeCraftDaily, your daily coding companion! This repository is packe
 
 <!-- Add more topics as needed -->
 
-## Topic 1: Algorithms
+## Topic 1: Arrays Important Algo
 
-### Question 1
+###    Algo 1
 
 Brief description of the first coding challenge related to algorithms.
 
@@ -45,7 +45,7 @@ Brief description of the first coding challenge related to algorithms.
 Your code hered
 ```  
 
-### Question 3
+## Topic 2: String Important Algo
 
 
 
